@@ -1,0 +1,13 @@
+***Lisa esimese faili juurde järgmised tõlked:
+
+?критический путь проекта - projekti kriitiline tee
+?виды рисков в проекте - Projekti riskiliigid
+?аутсортсинг - Hulgatöö
+?краудсортсинг - Välistöövõte
+?ИТ аудит - IT auditeerimine
+?ERP системы - ERP süsteemid
+?ROI для оценки проектов - Projekti ROI hindamiseks
+?Tacit - infotehnoloogia tehniline teenistus
+?Knowledge Managment System - Teadmiste haldamise süsteem
+?cистемы управления базами данных – какие знаете? - Andmebaaside haldamise süsteemid
+?Project Managment Tool - Andmebaaside haldamise süsteemid
