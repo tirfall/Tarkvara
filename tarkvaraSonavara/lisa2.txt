@@ -11,3 +11,24 @@
 ?Knowledge Managment System - Teadmiste haldamise süsteem
 ?cистемы управления базами данных – какие знаете? - Andmebaaside haldamise süsteemid
 ?Project Managment Tool - Andmebaaside haldamise süsteemid
+Mudel - Модель
+Kasutusmalliskeem - Kasutuslooskeem - диаграмма прецедентов
+Tegevusskeem - Диаграмма активности/дейстельности
+Jadaskeem - диаграмма последовательности
+Klassiskeem - диаграмма классов
+Koostööskeem - диаграмма взаимодействия
+
+Andmebaasiskeem - диаграмма баз данных
+Olem - сущность
+Seos - связь
+
+Muster - узор/шаблон
+Mustand - черновик
+
+Punkt - точка 
+Romb - Ромб
+Ristkülik - Прямоугольник
+Nool - Стрелка
+Joon - линия
+Algussõlm - Начальный узел
+Ovaal - овал
